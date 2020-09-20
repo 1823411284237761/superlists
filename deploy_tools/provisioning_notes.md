@@ -11,7 +11,7 @@ Provisioning a new site
 eg, on Ubuntu:
 
     sudo add-apt-repository ppa:fkrull/deadsnakes
-    sudo apt-get install nginx git python36 python3.6-venv
+    sudo apt-get install nginx git python3.6 python3.6-venv
 
 ## Nginx Virtual Host config
 
